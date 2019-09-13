@@ -14,7 +14,7 @@ Exploratory Data Analysis project investigating USA charity data
   <img src="Data_Pipeline.png">
 </p>
 
-# Exploratory Insights - Wordmap and Top Categories by State
+## Exploratory Insights - Wordmap and Top Categories by State
 
 <p align="center">
   <img src="Mission_Wordmap.png">

@@ -10,15 +10,19 @@ Exploratory Data Analysis project investigating USA charity data
   * Charities have the opportunity to create lasting impact
   * For my next project, I plan to partner with a Charity Donating Organization
 
-![:Data_Pipeline:](Data_Pipeline.png)
-
+<p align="center">
+  <img src="Data_Pipeline.png">
+</p>
 ## Exploratory Insights - Wordmap and Top Categories by State
 
-
-![:Wordmap:](Mission_Wordmap.png)
+<p align="center">
+  <img src="Mission_Wordmap.png">
+</p>
 ### Charities are about Providing Community Programs
 
-
+<p align="center">
+  <img src="State_Categories.png">
+</p>
 ![State_Categories](State_Categories.png)
 ### US States Donate to a Wide Variety of Categories
 

@@ -23,7 +23,6 @@ Exploratory Data Analysis project investigating USA charity data
 <p align="center">
   <img src="State_Categories.png">
 </p>
-![State_Categories](State_Categories.png)
 ### US States Donate to a Wide Variety of Categories
 
 [A Slideshow Presentation of this Project is Available Here](https://docs.google.com/presentation/d/1fC8eIchbvQmftJSOCORGc7lxn1mhAFAN3U4ByL6KB78/edit#slide=id.g6006c310b7_0_140)

@@ -11,18 +11,18 @@ Exploratory Data Analysis project investigating USA charity data
   * For my next project, I plan to partner with a Charity Donating Organization
 
 <p align="center">
-  <img src="Data_Pipeline.png">
+  <img src="IMG/Data_Pipeline.png">
 </p>
 
 ## Exploratory Insights - Wordmap and Top Categories by State
 
 <p align="center">
-  <img src="Mission_Wordmap.png">
+  <img src="IMG/Mission_Wordmap.png">
 </p>
 
 
 <p align="center">
-  <img src="State_Categories.png">
+  <img src="IMG/State_Categories.png">
 </p>
 
 
